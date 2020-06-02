@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "",
+    "intro": "vast challenge 2020 mini challenge1 templete\nAverage Path length: 1.8746892093485827\nAverage Weighted Degree: 29224.477\nAverage Degree: 9.761\nDensity: 0.112\nEigenvector Centrality Report\nNumber of iterations: 100\nSum change: 0.005958468817751189\nAverage Clustering Coefficient: 0.082\nNumber of Weakly Connected Components: 1\nNumber of Stronlgy Connected Components: 72\nPageRank Report\nEpsilon \u003d 0.001\nProbability \u003d 0.85\nResolution: 1.0\nModularity: 0.197\nModularity with resolution: 0.197\nNumber of Communities: 4",
+    "title": ""
+  },
+  "legend": {
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
