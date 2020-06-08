@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "vast challenge 2020 mini challenge1 template\n-----------------------------------\n 0 Email\n1 Phone\n 2Sell (procurement)\n3 Buy (procurement) \n4 Author-of      \n5 Financial (income or expenditure, depending on direction) \n6 Travels-to   \n------------\nParameters:\nEigenvector Centrality Report\nNetwork Interpretation: directed\nNumber of iterations: 100\nSum change: 0.005958468817751189\nClustering Coefficient Metric Report\nParameters:\nNetwork Interpretation: directed\nResults:\nAverage Clustering Coefficient: 0.082\nThe Average Clustering Coefficient is the mean value of individual coefficients.\nConnected Components Report\nParameters:\nNetwork Interpretation: directed\nResults:\nNumber of Weakly Connected Components: 1\nNumber of Stronlgy Connected Components: 72\nAlgorithm:\nRobert Tarjan, Depth-First Search and Linear Graph Algorithms, in SIAM Journal on Computing 1 (2): 146–160 (1972)\nPageRank Report\nParameters:\nEpsilon \u003d 0.001\nProbability \u003d 0.85\nAlgorithm:\nSergey Brin, Lawrence Page, The Anatomy of a Large-Scale Hypertextual Web Search Engine, in Proceedings of the seventh International Conference on the World Wide Web (WWW1998):107-117\nModularity Report\nParameters:\nRandomize: On\nUse edge weights: On\nResolution: 1.0\nResults:\nModularity: 0.197\nModularity with resolution: 0.197\nNumber of Communities: 4",
+    "intro": "vast challenge 2020 mini challenge1 template \n",
+    "title": ""
+  },
+  "legend": {
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
