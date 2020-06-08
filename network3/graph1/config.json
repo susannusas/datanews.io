@@ -8,8 +8,8 @@
     "text": ""
   },
   "text": {
-    "more": "vast challenge 2020 mini challenge1 template\n-----------------------------------\n 0 Email\n1 Phone\n 2Sell (procurement)\n3 Buy (procurement) \n4 Author-of      \n5 Financial (income or expenditure, depending on direction) \n6 Travels-to   \n------------\nAverage Degree: 10.943\nDiameter: 5\nRadius: 0\nAverage Path length: 2.085760517799353\nAverage Weighted Degree: 18040.792\nDensity: 0.127\nModularity: 0.040\nModularity with resolution: 0.040\nNumber of Communities: 3\nNetwork Interpretation: directed\nNumber of iterations: 100\nSum change: 0.0067061693878619905\nAverage Clustering Coefficient: 0.088\nNumber of Weakly Connected Components: 1\nNumber of Stronlgy Connected Components: 70\nEpsilon \u003d 0.001\nProbability \u003d 0.85",
-    "intro": "vast challenge 2020 mini challenge1 graph2\n",
+    "more": "vast challenge 2020 mini challenge1 template\n-----------------------------------\n 0 Email\n1 Phone\n 2Sell (procurement)\n3 Buy (procurement) \n4 Author-of      \n5 Financial (income or expenditure, depending on direction) \n6 Travels-to   \n------------\nDiameter: 5\nRadius: 0\nAverage Path length: 2.0830745341614905\nAverage Weighted Degree: 71146.165\nAverage Degree: 10.527",
+    "intro": "vast challenge 2020 mini challenge1 graph1\n",
     "title": ""
   },
   "legend": {
