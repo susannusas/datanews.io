@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "vast challenge 2020 mini challenge1 graph2\n-----------------------------------\n 0 Email\n1 Phone\n 2Sell (procurement)\n3 Buy (procurement) \n4 Author-of      \n5 Financial (income or expenditure, depending on direction) \n6 Travels-to   \n------------\n\t\ntable\t subgraph1\tsubgraph2\tsubgraph3\tsubgraph4\tsubgraph5\ttemplate\nAverage \n Degree\t13.075\t14.943\t9.228\t8.414\t3.314\t15.057\nDensity\t0.142\t0.174\t0.118\t0.098\t12669.711\t0.173\nModularity\t0.07\t0.04\t0.124\t0.188\t0.039\t0.214\nAverage Path\n length\t2.083\t2.086\t2.026\t2.43\t0.109\t1.875\n",
+    "intro": "vast challenge 2020 mini challenge1 graph2\n",
+    "title": ""
+  },
+  "legend": {
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
